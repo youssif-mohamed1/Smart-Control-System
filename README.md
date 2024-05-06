@@ -15,9 +15,9 @@ The Smart Control System, developed by [Your Name], is an Arduino-based project 
 - **User Interface**: Navigate through functionalities effortlessly with a user-friendly LCD interface.
 
 ## Repository Contents:
-1. [Code](#): Access the Arduino sketch for the Smart Control System [https://github.com/youssif-mohamed1/Smart-Control-System/blob/main/Measurement/src/main.cpp](#).
-2. [Proteus File](#): Download the Proteus simulation file for virtual testing [https://github.com/youssif-mohamed1/Smart-Control-System/tree/main/Measurement/Simulation%20File](#).
-3. [Real-Time Photo](#): View a snapshot of the physical implementation of the Smart Control System [https://github.com/youssif-mohamed1/Smart-Control-System/tree/main/Measurement/Real%20Time%20Photo](#).
+1. [Code]: Access the Arduino sketch for the Smart Control System [here](https://github.com/youssif-mohamed1/Smart-Control-System/blob/main/Measurement/src/main.cpp).
+2. [Proteus File]: Download the Proteus simulation file for virtual testing [here](https://github.com/youssif-mohamed1/Smart-Control-System/tree/main/Measurement/Simulation%20File).
+3. [Real-Time Photo]: View a snapshot of the physical implementation of the Smart Control System [here](https://github.com/youssif-mohamed1/Smart-Control-System/tree/main/Measurement/Real%20Time%20Photo).
 
 ## Usage:
 1. **Hardware Setup**: Connect the required sensors (LM, DHT11, ultrasonic, LDR), LCD display, buzzer, and other components to the Arduino board based on the circuit diagram.
